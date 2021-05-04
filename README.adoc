@@ -8,6 +8,8 @@ How often did you read messages such as:
 
 > error: There is a missing semicolon in line XYZ"
 
+On Twitter, a user posted:
+
 
 
 ## 🔧 Setup:
