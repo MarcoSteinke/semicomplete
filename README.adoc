@@ -1,0 +1,19 @@
+# semicomplete
+
+## 👋 Introduction:
+
+How often did you read messages such as:
+
+> error: There is a missing semicolon in line XYZ"
+
+
+
+## 🔧 Setup:
+
+Follows
+
+## ⚖ License:
+
+#### MIT LICENSE
+
+https://github.com/MarcoSteinke/semicomplete/blob/main/LICENSE[click here to get to the license]
