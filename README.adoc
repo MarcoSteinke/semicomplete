@@ -1,6 +1,6 @@
 image::https://raw.githubusercontent.com/MarcoSteinke/semicomplete/main/2logo.png[]
 
-# semicomplete
+---
 
 ## 👋 Introduction:
 
