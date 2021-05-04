@@ -10,7 +10,11 @@ How often did you read messages such as:
 
 On Twitter, a user posted:
 
+image::https://raw.githubusercontent.com/MarcoSteinke/semicomplete/main/1620122644428.jpg[width=400]
 
+So I thought, why not implement this! I want to use this repo, to offer ways to implement this feature for different programming languages!
+
+Stop missing semicolons! Start a revolution !
 
 ## 🔧 Setup:
 
